@@ -22,7 +22,7 @@ def home(name): #带参数
     print('welcome to %s home page' %name)
 
 res=index()
-print("--------------------",res)
+print("-",res)
 res1=home('egon')
 print("--------------------",res1)
 
